@@ -301,15 +301,15 @@
     <div class="roadmap-item done">
       <span class="roadmap-label">02 — CNN</span>
       <div class="bar-track"><div class="bar-fill bar-cyan" style="width:85%"></div></div>
-      <span class="roadmap-status status-done">✅ currently</span>
+      <span class="roadmap-status status-done">✅ Done</span>
     </div>
     <div class="roadmap-item">
-      <span class="roadmap-label">03 — Transformers</span>
+      <span class="roadmap-label">03 — RNN / LSTM / GRU</span>
       <div class="bar-track"><div class="bar-fill bar-purple" style="width:0%"></div></div>
       <span class="roadmap-status status-soon">⏳ Next</span>
     </div>
     <div class="roadmap-item">
-      <span class="roadmap-label">04 —  — RNN / LSTM / GRU</span>
+      <span class="roadmap-label">04 — Transformers</span>
       <div class="bar-track"><div class="bar-fill bar-muted" style="width:0%"></div></div>
       <span class="roadmap-status status-soon">⏳ Soon</span>
     </div>
