@@ -48,7 +48,7 @@ AutoFormation/
 
 ---
 
-## 🎯 Method — applied to each model
+##  Method — applied to each model
 
 ```
 1. INTUITION  →  understand what it does and why, before any math
@@ -60,7 +60,7 @@ AutoFormation/
 
 ---
 
-## 📚 Primary Resource
+##  Primary Resource
 
 > [**CS231n — Stanford: Deep Learning for Computer Vision**](https://cs231n.github.io/)
 
