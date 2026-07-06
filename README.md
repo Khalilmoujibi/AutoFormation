@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Auto-Formation — Deep Learning from Scratch
+#  Auto-Formation — Deep Learning from Scratch
 
 **Khalil Moujibi** · PhD Researcher · ISTI / UM6P · 2026  
 Supervisor: **Dr. Kaoutar Sefrioui**
@@ -18,7 +18,7 @@ Supervisor: **Dr. Kaoutar Sefrioui**
 
 ---
 
-## 📁 Structure
+##  Structure
 
 ```
 AutoFormation/
@@ -34,7 +34,7 @@ AutoFormation/
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 | # | Module | Topics | Status | Notes |
 |---|--------|---------|--------|-------|
