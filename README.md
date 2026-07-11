@@ -1,9 +1,8 @@
 <div align="center">
 
-#  Auto-Formation — Deep Learning from Scratch
+#  Deep Learning from Scratch
 
-**Khalil Moujibi** · PhD Researcher · ISTI / UM6P · 2026  
-Supervisor: **Dr. Kaoutar Sefrioui**
+**Author: Khalil Moujibi (PhD Candidate at UM6P)**
 
 [![NN](https://img.shields.io/badge/01_NN-Complete-00D4FF?style=for-the-badge)](#)
 [![CNN](https://img.shields.io/badge/02_CNN-Complete-7B61FF?style=for-the-badge)](#)
@@ -12,7 +11,6 @@ Supervisor: **Dr. Kaoutar Sefrioui**
 
 > *"Master every model from scratch — full mathematical derivation,  
 > hand-calculated verification, numpy implementation. No shortcuts."*  
-> — Dr. Kaoutar Sefrioui
 
 </div>
 
@@ -22,7 +20,7 @@ Supervisor: **Dr. Kaoutar Sefrioui**
 
 ```
 AutoFormation/
-├── 01_NN/              Neural Networks
+├── 01_MLP/              Neural Networks (Multi layer Perceptron)
 ├── 02_CNN/             Convolutional Neural Networks
 ├── 03_RNN/             RNN / LSTM / GRU / Bi-LSTM        [upcoming]
 ├── 04_Transformers/    Transformers + Attention           [upcoming]
@@ -38,7 +36,7 @@ AutoFormation/
 
 | # | Module | Topics | Status | Notes |
 |---|--------|---------|--------|-------|
-| 01 | **[Neural Networks →](./01_NN/)** | Neuron, Forward, Backprop, Optimizers | ✅ Complete |
+| 01 | **[MLP →](./01_NN/)** | Neuron, Forward, Backprop, Optimizers | ✅ Complete |
 | 02 | **[CNN →](./02_CNN/)** | Convolution, Pooling, im2col, LeNet | ✅ Complete |
 | 03 | RNN / LSTM / GRU / Bi-LSTM | Gates, Vanishing gradient, Sequences | 🔄 In progress |
 | 04 | Transformers + Attention | Self-attention, Multi-head, Positional enc. | ⏳ Upcoming |
